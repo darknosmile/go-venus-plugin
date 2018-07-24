@@ -23,3 +23,5 @@ type PacketHandShake struct {
 type FindNameData struct {
 	UserName string `json:"userName"`
 }
+
+

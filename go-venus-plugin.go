@@ -1,11 +1,11 @@
-// go-venus-plug project go-venus-plug.go
+// go-venus-plug project go-venus-plugin.go
 package main
 
 import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"go-venus-plug/models"
+	"go-venus-plugin/models"
 	"net"
 	"os"
 )
